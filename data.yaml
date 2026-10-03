@@ -1,0 +1,12 @@
+train: images/train
+validation: images/val
+
+names:
+  0: black
+  1: fourteen
+  2: fxx
+  3: gray
+  4: italian
+  5: old
+  6: truck
+  7: wing
